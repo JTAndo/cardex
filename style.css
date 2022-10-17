@@ -1,0 +1,15 @@
+body {
+    margin: auto;
+    max-width: 600px;
+}
+.request {
+font-family: 'Courier New', Courier, monospace ;
+color: black;
+background-color: aqua;
+padding: 8px;
+text-align: center;
+}
+.request.button{
+    background-color: antiquewhite;
+    align-items: center;
+}
