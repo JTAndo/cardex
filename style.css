@@ -2,6 +2,12 @@ body {
     margin: auto;
     max-width: 600px;
 }
+#card{
+    margin: auto;
+    max-width: 500px;
+    background-color: whitesmoke;
+    
+}
 .request {
 font-family: 'Courier New', Courier, monospace ;
 color: black;
@@ -9,7 +15,16 @@ background-color: aqua;
 padding: 8px;
 text-align: center;
 }
+.request.body{
+    margin-bottom: 8px;
+}
+.button-container{
+    background-color: aqua;
+    padding: 16px;
+    padding-left: 200px;
+}
 .request.button{
     background-color: antiquewhite;
     align-items: center;
+    padding: 8px;
 }
